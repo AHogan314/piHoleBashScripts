@@ -2,7 +2,7 @@
 Bash scripts for Pi-Hole management.
 
 ## piHoleWhitelist.sh
-Adds commonly whitelisted domains to your whitelist. 
+Adds commonly whitelisted domains to your whitelist.    
 List sourced from https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212
 
 ### Instructions:
